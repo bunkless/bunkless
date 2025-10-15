@@ -23,7 +23,7 @@ I'm from Europe. I'm a huge fan of front-end development, especially React.js, J
 
 <!-- E-mail -->
 <a href="mailto:david.beniamin@example.com" target="_blank">
-  <img width="50" height="50" alt="Email" src="https://github.com/user-attachments/assets/8165a383-c2d1-4bcf-9c72-65a9d5d6d85f" />
+  <img width="50" height="50" alt="Email" src="https://github.com/user-attachments/assets/ff9dc52a-2807-439b-81ad-240bc4b1d5a0" />
 </a>
 
 <!--
