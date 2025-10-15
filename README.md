@@ -16,7 +16,8 @@ I'm from Europe. I'm a huge fan of front-end development, especially React.js, J
 
 ## 📫 How to reach me
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/398d83c7-0393-44a4-b646-0b5bf683a15f" />
+<img width="100" height="100" alt="image" src="https://www.linkedin.com/in/david-beniamin-bahna/" />
+
 
 <!--
 
